@@ -51,7 +51,7 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-results-summary-component-main/)
+[My Solution](https://dovlym.github.io/FEM-results-summary-component-main/)
 
 
 ## My process
