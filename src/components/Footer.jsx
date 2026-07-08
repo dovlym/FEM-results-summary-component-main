@@ -9,9 +9,7 @@ export default function Footer() {
           Frontend Mentor.
         </a>
         Coded by
-        <a href="https://github.com/dovelm" target="_blank">
-          Dusvy M
-        </a>
+       <a href="https://github.com/dovlym" target="_blank">Dusvy_M</a>
       </footer>
     </>
   );
